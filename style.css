@@ -68,8 +68,8 @@ body{
   }
   .carousel{
     box-shadow: 2px 2px 2px rgb(0,0,0,0.5);
-    width: 200px;
-    height: 200px;
+    width: 270px;
+    height: 270px;
     overflow: hidden;
     text-align: center;
     margin: auto;
