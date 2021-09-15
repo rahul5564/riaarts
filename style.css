@@ -5,6 +5,7 @@
 }
 body{
     background-color: #787878;
+    background-image: url('https://papers.co/wallpaper/papers.co-bd79-night-city-dark-art-illustration-bw-25-wallpaper.jpg');
 }
 .container{
     background-color: #202020;
@@ -53,7 +54,7 @@ body{
     background-color: black;
     text-align: center;
     padding: 4px;
-    margin-top: 10px;
+    margin-top: 80px;
     font-family:'Times New Roman', Times, serif;
 }
 .blw-layer{
