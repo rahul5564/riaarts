@@ -84,8 +84,9 @@ body{
     height: 400px;
     width: 60rem;
 }
-h3{
+h4{
     color: lightsalmon;
+    font-style: italic;
 }
 .pd-intro{
     color: white;
