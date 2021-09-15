@@ -9,8 +9,8 @@ function run(){
     if(idx > img.length - 2){
         idx = 0;
     }
-    imgs.style.transform = `translateX(${-idx * 500}px)`
+    imgs.style.transform = `translateX(${-idx * 400}px)`
     console.log(idx)
 }
 
-setInterval(run,1500)
+setInterval(run,2500)
